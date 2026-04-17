@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/yousrik20/Schn-ppchen/static/css/main.e6c13ad2.css",
+    "main.js": "/yousrik20/Schn-ppchen/static/js/main.3df68929.js",
+    "static/js/453.78384f26.chunk.js": "/yousrik20/Schn-ppchen/static/js/453.78384f26.chunk.js",
+    "index.html": "/yousrik20/Schn-ppchen/index.html",
+    "main.e6c13ad2.css.map": "/yousrik20/Schn-ppchen/static/css/main.e6c13ad2.css.map",
+    "main.3df68929.js.map": "/yousrik20/Schn-ppchen/static/js/main.3df68929.js.map",
+    "453.78384f26.chunk.js.map": "/yousrik20/Schn-ppchen/static/js/453.78384f26.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.3df68929.js"
+  ]
+}
